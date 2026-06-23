@@ -1,0 +1,7 @@
+What is Python?|Python is a popular programming language.
+What is AI?|Artificial Intelligence enables machines to mimic human intelligence.
+What is Machine Learning?|Machine Learning is a subset of AI that learns from data.
+What is CodeAlpha?|CodeAlpha provides internship opportunities for students.
+How can I improve coding skills?|Practice daily and build projects regularly.
+What is GitHub?|GitHub is a platform for hosting and managing code repositories.
+What is Data Science?|Data Science extracts insights from data using various techniques.
